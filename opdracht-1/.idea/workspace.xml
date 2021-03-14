@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bacc004-c601-4926-ba31-81a1df43af83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/opdracht-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Odracht_1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../opdracht-2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../opdracht-2/.idea/opdracht-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../opdracht-2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../opdracht-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectors.css" beforeDir="false" afterPath="$PROJECT_DIR$/selectors.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../opdracht-2/flexbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/../opdracht-2/flexbox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../opdracht-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../opdracht-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615539821037</updated>
-      <workItem from="1615539822194" duration="3150000" />
+      <workItem from="1615539822194" duration="4434000" />
     </task>
     <servers />
   </component>
