@@ -1,3 +1,77 @@
 /* ======================================================
    OEFENEN MET FLEXBOX
 ========================================================= */
+.one{position: relative}
+
+#oneA{
+    position: absolute;
+    bottom: 60px;
+    left: 10px;
+}
+#oneB{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+.two{
+    background: yellow;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+#twoB {
+    background: grey;
+    justify-content: flex-end;
+
+}
+
+.three{
+    display: flex;
+    background-color: palevioletred;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+#threeA{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    flex-basis: 300px;
+
+
+}
+.four{
+    display: flex;
+    background-color: aqua;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#fourA{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.five{
+    display: flex;
+    justify-content: space-around;
+    padding: 1em;
+
+}
+.six{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1em;
+
+}
+.items{
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: 300px;
+
+
+}
